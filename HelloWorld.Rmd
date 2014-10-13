@@ -1,0 +1,7 @@
+---
+title: "HelloWorld.md"
+author: "Steffen Petersen"
+date: "13 October 2014"
+output: html_document
+---
+## This is a markdown file
